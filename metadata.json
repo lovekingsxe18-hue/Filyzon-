@@ -1,0 +1,6 @@
+{
+  "name": "Filyzon",
+  "description": "Filyzon Official - Verified Green Tick Badge, Supabase Admin Panel & Edge Function verification, Pakistani Wallets & Bank Purchasing, Entertainment Feed, Online Store and Creator Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
